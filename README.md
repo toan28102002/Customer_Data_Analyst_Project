@@ -17,20 +17,20 @@ This project mirrors a corporate-grade workflow — from raw data extraction and
 
 This project simulates a real-world data analytics workflow, demonstrating the ability to transform raw data into actionable business insights:
 
-- **Data Preparation & Cleaning (Python)** – Transform raw data for analysis  
-- **Data Analysis & Queries (SQL)** – Extract insights on customer segments, loyalty, and purchase patterns  
-- **Visualization & Dashboard (Power BI)** – Interactive reporting for stakeholders  
-- **Reporting & Presentation** – Summarize key findings and actionable recommendations  
+1️⃣ **Data Preparation & Cleaning (Python)** – Transform and preprocess raw data for analysis.  
+2️⃣ **Data Analysis & Queries (SQL)** – Extract insights on customer segments, loyalty, and purchasing patterns.  
+3️⃣ **Visualization & Dashboard (Power BI)** – Create interactive dashboards for stakeholders to explore insights.  
+4️⃣ **Reporting & Presentation** – Summarize key findings and provide actionable business recommendations.
 
 ---
 
 ## 📂 Project Structure
 
-    ├── Customer_Data.csv
-    ├── customer_behavior_sql_queries.sql
-    ├── Customer_Data_Analysis.ipynb
-    ├── customer_behavior_dashboard.pbix
-    └── README.md
+    ├── Customer_Data.csv # Raw dataset 
+    ├── customer_behavior_sql_queries.sql # SQL queries for data extraction and analysis
+    ├── Customer_Data_Analysis.ipynb Jupyter Notebook for data cleaning, EDA, and visualization
+    ├── customer_behavior_dashboard.pbix # Power BI interactive dashboard
+    └── README.md # What you are reading
 
 ---
 
