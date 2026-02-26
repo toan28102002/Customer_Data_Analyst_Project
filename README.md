@@ -4,6 +4,7 @@
 - B.S. in Computer Science — University of Missouri–Kansas City  
 - Data Analyst in training, pursuing a future career in Data Science
 - Portfolio: http://toanportfolio.com/
+- Questions? Feel free to reach me at: nguyenquytoan@outlook.com
 ---
 
 # 📊 Customer Behavior Data Analysis & Dashboard
@@ -26,11 +27,16 @@ This project simulates a real-world data analytics workflow, demonstrating the a
 
 ## 📂 Project Structure
 
-    ├── Customer_Data.csv --- (Raw dataset)
-    ├── customer_behavior_sql_queries.sql --- (SQL queries for data extraction and analysis)
-    ├── Customer_Data_Analysis.ipynb --- (Jupyter Notebook for data cleaning)
-    ├── customer_behavior_dashboard.pbix --- (Power BI interactive dashboard)
-    └── README.md --- (What you are reading)
+## 📂 Project Structure
+
+    ├── Business_Case_Scenario.pdf ---------------- (Detailed business case scenario)
+    ├── Customer-Shopping-Behavior-Analysis.pptx -- (Presentation summarizing customer behavior analysis)
+    ├── Customer_Analysis_Report.docx ------------- (Written report of data analysis findings)
+    ├── Customer_Data.csv ------------------------- (Raw dataset)
+    ├── customer_behavior_sql_queries.sql --------- (SQL queries for data extraction and analysis)
+    ├── Customer_Data_Analysis.ipynb ------------- (Jupyter Notebook for data cleaning, EDA, and visualization)
+    ├── customer_behavior_dashboard.pbix --------- (Power BI interactive dashboard with insights)
+    └── README.md --------------------------------- (Project documentation and instructions)
 
 ---
 
@@ -41,7 +47,7 @@ This project simulates a real-world data analytics workflow, demonstrating the a
   - Pandas
 - **SQL** (Data querying & transformation)  
 - **Power BI**  
-- **Data Analytics & Visualization**
+- **Power Point & Word**
 
 ---
 
@@ -58,7 +64,7 @@ The file `customer_behavior_sql_queries.sql` includes:
 
 ## 📊 Python Analysis (EDA)
 
-The Jupyter Notebook covers:
+The Jupyter Notebook `Customer_Data_Analysis.ipynb` covers:
 
 - Data cleaning and handling missing values  
 - Exploratory data analysis  
@@ -69,7 +75,7 @@ The Jupyter Notebook covers:
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard provides:
+The Power BI dashboard `customer_behavior_dashboard.pbix` provides:
 
 - Interactive charts and slicers  
 - Customer behavior insights  
@@ -108,5 +114,5 @@ cd Customer_Data_Analyst_Project
 ### 5. Create Project Report or Presentation
 
 - Use all the information from the analysis, SQL queries, and Power BI dashboard.  
-- Create a **PowerPoint presentation** or a **Word report** summarizing your key findings and business insights.
+- Create a **PowerPoint presentation** `Customer-Shopping-Behavior-Analysis.pptx` or a **Word report** `Customer_Analysis_Report.docx` summarizing your key findings and business insights.
 ---
