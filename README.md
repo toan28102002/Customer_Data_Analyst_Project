@@ -26,34 +26,22 @@ This project simulates a real-world data analytics workflow, demonstrating the a
 
 ## 📂 Project Structure
 
-    ├── Customer_Data.csv  (Raw dataset)
-    ├── customer_behavior_sql_queries.sql   (SQL queries for data extraction and analysis)
-    ├── Customer_Data_Analysis.ipynb   (Jupyter Notebook for data cleaning, EDA, and visualization)
-    ├── customer_behavior_dashboard.pbix   (Power BI interactive dashboard)
-    └── README.md # What you are reading
+    ├── Customer_Data.csv --- (Raw dataset)
+    ├── customer_behavior_sql_queries.sql --- (SQL queries for data extraction and analysis)
+    ├── Customer_Data_Analysis.ipynb --- (Jupyter Notebook for data cleaning)
+    ├── customer_behavior_dashboard.pbix --- (Power BI interactive dashboard)
+    └── README.md --- (What you are reading)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **SQL** (Data querying & transformation)  
+- **Jupyter Notebook**  
 - **Python**
   - Pandas
-  - NumPy
-  - Matplotlib / Seaborn  
-- **Jupyter Notebook**  
+- **SQL** (Data querying & transformation)  
 - **Power BI**  
 - **Data Analytics & Visualization**
-
----
-
-## 📈 Key Features
-
-- Data extraction using SQL queries  
-- Data cleaning and preprocessing in Python  
-- Exploratory Data Analysis (EDA)  
-- Customer segmentation and behavior insights  
-- Interactive Power BI dashboard  
 
 ---
 
@@ -96,39 +84,29 @@ The Power BI dashboard provides:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name  
+git clone https://github.com/toan28102002/Customer_Data_Analyst_Project.git  
+cd Customer_Data_Analyst_Project  
 
-### 2. Run SQL Queries
+### 2. Run the Notebook File
+
+- Open `Customer_Data_Analysis.ipynb` in **Jupyter Notebook** or **Google Colab**.  
+- Make sure to **import `Customer_Data.csv`** so the notebook runs properly.
+
+### 3. Run SQL Queries
 
 - Open `customer_behavior_sql_queries.sql` in:
-  - PostgreSQL / MySQL / SQL Server  
+  - PostgreSQL / MySQL / SQL Server
+
 - Execute queries to explore the dataset  
-
-### 3. Run Jupyter Notebook
-
-jupyter notebook Customer_Data_Analysis.ipynb  
+ 
 
 ### 4. Open Power BI Dashboard
 
-- Open `customer_behavior_dashboard.pbix` in Power BI Desktop  
+- Open `customer_behavior_dashboard.pbix` in **Power BI Desktop**.  
+- Use filters and slicers to explore the data and focus on the insights you want to analyze.
 
----
+### 5. Create Project Report or Presentation
 
-## 💡 Use Cases
-
-- Customer segmentation  
-- Business intelligence reporting  
-- Marketing analytics  
-- Data analyst portfolio project  
-
----
-
-## 📌 Future Improvements
-
-- Add predictive modeling (ML)  
-- Automate SQL + Python pipeline  
-- Deploy dashboard online  
-- Add real-time data streaming  
-
+- Use all the information from the analysis, SQL queries, and Power BI dashboard.  
+- Create a **PowerPoint presentation** or a **Word report** summarizing your key findings and business insights.
 ---
