@@ -2,7 +2,7 @@
 
 **Toan Nguyen**  
 - B.S. in Computer Science — University of Missouri–Kansas City  
-- Aspiring Data Analyst  
+- Data Analyst in training, pursuing a future career in Data Science
 - Portfolio: http://toanportfolio.com/
 ---
 
