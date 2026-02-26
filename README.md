@@ -8,7 +8,7 @@
 
 # 📊 Customer Data Analysis & Behavior Dashboard
 
-A complete data analytics project that explores customer behavior using **Python, SQL, and Power BI**.
+A complete data analytics project that explores customer behavior using **Python, SQL, Power BI and Postgresql**.
 
 This project demonstrates the full data workflow — from raw data extraction and querying to analysis and interactive visualization.
 
