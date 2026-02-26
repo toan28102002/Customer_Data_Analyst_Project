@@ -27,8 +27,6 @@ This project simulates a real-world data analytics workflow, demonstrating the a
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
     ├── Business_Case_Scenario.pdf ---------------- (Detailed business case scenario)
     ├── Customer-Shopping-Behavior-Analysis.pptx -- (Presentation summarizing customer behavior analysis)
     ├── Customer_Analysis_Report.docx ------------- (Written report of data analysis findings)
