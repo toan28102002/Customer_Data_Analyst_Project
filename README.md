@@ -26,10 +26,10 @@ This project simulates a real-world data analytics workflow, demonstrating the a
 
 ## 📂 Project Structure
 
-    ├── Customer_Data.csv # Raw dataset 
-    ├── customer_behavior_sql_queries.sql # SQL queries for data extraction and analysis
-    ├── Customer_Data_Analysis.ipynb Jupyter Notebook for data cleaning, EDA, and visualization
-    ├── customer_behavior_dashboard.pbix # Power BI interactive dashboard
+    ├── Customer_Data.csv  (Raw dataset)
+    ├── customer_behavior_sql_queries.sql   (SQL queries for data extraction and analysis)
+    ├── Customer_Data_Analysis.ipynb   (Jupyter Notebook for data cleaning, EDA, and visualization)
+    ├── customer_behavior_dashboard.pbix   (Power BI interactive dashboard)
     └── README.md # What you are reading
 
 ---
