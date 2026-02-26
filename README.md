@@ -1,9 +1,10 @@
 ## 👨‍💻 Author
 
 **Toan Nguyen**  
-- B.S. Computer Science, University of Missouri–Kansas City  
+- B.S. in Computer Science — University of Missouri–Kansas City  
 - Aspiring Data Analyst  
-- Portfolio: [https://your-portfolio-link.com ](http://toanportfolio.com/) 
+- Portfolio: http://toanportfolio.com/
+---
 
 # 📊 Customer Data Analysis & Behavior Dashboard
 
