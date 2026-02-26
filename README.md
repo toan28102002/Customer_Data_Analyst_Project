@@ -1,3 +1,10 @@
+## 👨‍💻 Author
+
+**Toan Nguyen**  
+- B.S. Computer Science, University of Missouri–Kansas City  
+- Aspiring Data Analyst  
+- Portfolio: [https://your-portfolio-link.com ](http://toanportfolio.com/) 
+
 # 📊 Customer Data Analysis & Behavior Dashboard
 
 A complete data analytics project that explores customer behavior using **Python, SQL, and Power BI**.
@@ -125,14 +132,5 @@ jupyter notebook Customer_Data_Analysis.ipynb
 - Automate SQL + Python pipeline  
 - Deploy dashboard online  
 - Add real-time data streaming  
-
----
-
-## 👨‍💻 Author
-
-**Toan Nguyen**  
-- B.S. Computer Science, University of Missouri–Kansas City  
-- Aspiring Data Analyst  
-- Portfolio: https://your-portfolio-link.com  
 
 ---
