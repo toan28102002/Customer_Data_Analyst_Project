@@ -88,8 +88,10 @@ The Power BI dashboard `customer_behavior_dashboard.pbix` provides:
 
 ### 1. Clone the repository
 
-git clone https://github.com/toan28102002/Customer_Data_Analyst_Project.git  
-cd Customer_Data_Analyst_Project  
+```bash
+git clone https://github.com/toan28102002/Customer_Data_Analyst_Project.git
+cd Customer_Data_Analyst_Project
+``` 
 
 ### 2. Run the Notebook File
 
