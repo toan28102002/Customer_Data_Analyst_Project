@@ -6,24 +6,21 @@
 - Portfolio: http://toanportfolio.com/
 ---
 
-# 📊 Customer Data Analysis & Behavior Dashboard
+# 📊 Customer Behavior Data Analysis & Dashboard
 
-A complete data analytics project that explores customer behavior using **Python, SQL, Power BI and Postgresql**.
-
-This project demonstrates the full data workflow — from raw data extraction and querying to analysis and interactive visualization.
+A complete end-to-end data analytics project exploring **customer behavior** using **Python, SQL, Power BI, and PostgreSQL**.  
+This project mirrors a corporate-grade workflow — from raw data extraction and transformation to analysis and interactive visualization.
 
 ---
 
 ## 🚀 Project Overview
 
-This project includes:
+This project simulates a real-world data analytics workflow, demonstrating the ability to transform raw data into actionable business insights:
 
-- 📁 **Dataset** – Customer data in CSV format  
-- 🧠 **SQL Queries** – Data extraction and transformation  
-- 📓 **Jupyter Notebook** – Data cleaning & analysis  
-- 📊 **Power BI Dashboard** – Interactive visualization  
-
-The goal is to turn raw customer data into meaningful insights for business decision-making.
+- **Data Preparation & Cleaning (Python)** – Transform raw data for analysis  
+- **Data Analysis & Queries (SQL)** – Extract insights on customer segments, loyalty, and purchase patterns  
+- **Visualization & Dashboard (Power BI)** – Interactive reporting for stakeholders  
+- **Reporting & Presentation** – Summarize key findings and actionable recommendations  
 
 ---
 
