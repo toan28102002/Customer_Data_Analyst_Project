@@ -111,8 +111,16 @@ cd Customer_Data_Analyst_Project
 - Open `customer_behavior_dashboard.pbix` in **Power BI Desktop**.  
 - Use filters and slicers to explore the data and focus on the insights you want to analyze.
 
+Live Demo:
+
 ### 5. Create Project Report or Presentation
 
 - Use all the information from the analysis, SQL queries, and Power BI dashboard.  
 - Create a **PowerPoint presentation** `Customer-Shopping-Behavior-Analysis.pptx` or a **Word report** `Customer_Analysis_Report.docx` summarizing your key findings and business insights.
 ---
+
+## 🚀 Live Demo
+
+Check out the live demo of the Customer Data Analyst Project here:  
+
+[🔗 View Live Demo](https://github.com/toan28102002/Customer_Data_Analyst_Project.git)
