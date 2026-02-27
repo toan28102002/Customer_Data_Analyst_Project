@@ -121,6 +121,9 @@ Live Demo:
 
 ## 🚀 Live Demo
 
-Check out the live demo of the Customer Data Analyst Project here:  
+-GitHub limits video files to 10MB. If you have any questions, please send them to nguyenquytoan@outlook.com
 
-[🔗 View Live Demo](https://github.com/toan28102002/Customer_Data_Analyst_Project.git)
+https://github.com/user-attachments/assets/f8cb2e75-37eb-41e0-8536-1e69a57460ac
+
+
+
