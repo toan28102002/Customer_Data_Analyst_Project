@@ -121,9 +121,9 @@ Live Demo:
 
 ## 🚀 Live Demo
 
--GitHub limits video files to 10MB. If you have any questions, please send them to nguyenquytoan@outlook.com
+- GitHub limits video files to 10MB. If you have any questions, please send them to nguyenquytoan@outlook.com
 
-https://github.com/user-attachments/assets/f8cb2e75-37eb-41e0-8536-1e69a57460ac
+
 
 
 
